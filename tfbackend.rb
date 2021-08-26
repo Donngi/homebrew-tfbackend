@@ -1,8 +1,8 @@
 class Tfbackend < Formula
   desc "Simple cli tool to create terraform backend at a blistering speed🚀🚀"
   homepage "https://github.com/Jimon-s/tfbackend"
-  url "https://github.com/Jimon-s/tfbackend/archive/v1.0.1.tar.gz"
-  sha256 "011acabc60a9a55c3737d41a500cc2f7e5efdfa1fcdbd258b006aad8a7844585"
+  url "https://github.com/Jimon-s/tfbackend/archive/v1.0.2.tar.gz"
+  sha256 "c61ee0fc0ceb104a34876c20e5b1f804246f278936d918e325bc156864d27af4"
   license "MIT"
 
   depends_on "go" => :build
